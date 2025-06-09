@@ -1,7 +1,7 @@
 let count = 1000;
         
 function increment() {
-    count+=2;
+    count += 2;
     document.getElementById('count').innerText = count;
 }
         
